@@ -1,0 +1,18 @@
+# Core libraries for data manipulation and machine learning
+pandas
+numpy
+scikit-learn
+tensorflow
+keras
+matplotlib
+seaborn
+nltk
+requests
+
+# Hugging Face deployment libraries
+transformers
+huggingface_hub
+gradio
+
+# Additional libraries for JSON handling
+flask
